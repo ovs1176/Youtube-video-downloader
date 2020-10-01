@@ -3,6 +3,7 @@ from tkinter import *
 from tkinter.filedialog import *
 from tkinter.messagebox import *
 from threading import *
+#bahut badhiya!!!!
 
 file_size=0
 
