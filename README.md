@@ -5,7 +5,7 @@ first you have to download all the above files and put it in same folder and run
 .
 .
 these all three files help you to download any youtube video 
-in good quality.
+in good quality(360px).
 .
 .
 .
